@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'active_model_serializers'
+gem 'kaminari'
 
 
 gem 'factory_bot_rails'
